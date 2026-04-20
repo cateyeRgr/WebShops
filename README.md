@@ -21,7 +21,7 @@ Mit WIX erstellte Seite für Kryptohandel mit Fanshop (aktuell nicht live)
 ## Über Uns
 <img width="1339" height="432" alt="image" src="https://github.com/user-attachments/assets/9a8688ea-84b8-4e0e-9efa-d2bab947908b" />
 
-## Kontaktdaten, Datenschutz, Impressum, Versandkosten, AGBs, Rückgaberichtlininen und Social-Media-Links
+## Gesetzliche Pflichtangaben und Social-Media-Links
 
 <img width="1349" height="547" alt="image" src="https://github.com/user-attachments/assets/85a91640-e6ef-4806-a8ef-3d280135ceaa" />
 
