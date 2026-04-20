@@ -15,7 +15,7 @@ Mit Wordpress erstellte Reiseshop-Seite (aktuell nicht live)
 
 
 Bilder: Pexels.com (CC) und ChatGPT (freie Nutzung, kein eigenes Copyright)
-
+<br/>
 
 Mit WIX erstellte Seite für Kryptohandel mit Fanshop (aktuell nicht live) 
 
