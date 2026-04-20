@@ -1,6 +1,22 @@
 # WebShops
 Von mir aufgesetzte Web-Shops
 
+
+Mit Wordpress erstellte Reiseshop-Seite (aktuell nicht live)
+
+<img width="1343" height="651" alt="image" src="https://github.com/user-attachments/assets/c10508a9-d619-467a-b5b5-b4860d71346a" />
+
+<img width="1354" height="399" alt="image" src="https://github.com/user-attachments/assets/76456269-81d7-458c-8f70-793eb6ab9ee6" />
+
+## Gesetzliche Pflichtangaben
+<img width="1366" height="220" alt="image" src="https://github.com/user-attachments/assets/db6f745f-bfeb-4195-a97a-a2eb92809913" />
+
+
+
+
+Bilder: Pexels.com (CC) und ChatGPT (freie Nutzung, kein eigenes Copyright)
+
+
 Mit WIX erstellte Seite für Kryptohandel mit Fanshop (aktuell nicht live) 
 
 ## Startseite
@@ -24,6 +40,8 @@ Mit WIX erstellte Seite für Kryptohandel mit Fanshop (aktuell nicht live)
 ## Gesetzliche Pflichtangaben und Social-Media-Links
 
 <img width="1349" height="547" alt="image" src="https://github.com/user-attachments/assets/85a91640-e6ef-4806-a8ef-3d280135ceaa" />
+
+Bilder: in Wix inkludiert, frei nutzbar
 
 
 
