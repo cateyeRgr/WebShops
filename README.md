@@ -6,8 +6,8 @@ Von mir aufgesetzte Web-Shops
 ## Mit Wordpress erstellte Reiseshop-Seite (aktuell nicht live)
 
 <img width="1366" height="723" alt="Travelagent_header_1" src="https://github.com/user-attachments/assets/27c976e3-ac74-4214-806b-7a7168f94585" />
+<img width="1209" height="448" alt="sub_photo_part" src="https://github.com/user-attachments/assets/de2fdb8b-d7c3-4c6f-9e10-5d57fc67fbcd" />
 
-<img width="1272" height="448" alt="sub_photo_part" src="https://github.com/user-attachments/assets/f68b8add-e0fb-4ea8-84ca-8b8f86add2a5" />
 
 
 
