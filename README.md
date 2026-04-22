@@ -7,13 +7,13 @@ Von mir aufgesetzte Web-Shops
 
 <img width="1125" height="750" alt="image" src="https://github.com/user-attachments/assets/217c3158-bd48-47fb-ba1f-cb245124dc17" />
 
-
+<img width="1343" height="651" alt="image" src="https://github.com/user-attachments/assets/c10508a9-d619-467a-b5b5-b4860d71346a" />
 
 
 
 <img width="1354" height="399" alt="image" src="https://github.com/user-attachments/assets/76456269-81d7-458c-8f70-793eb6ab9ee6" />
 
-<img width="1343" height="651" alt="image" src="https://github.com/user-attachments/assets/c10508a9-d619-467a-b5b5-b4860d71346a" />
+
 
 
 
