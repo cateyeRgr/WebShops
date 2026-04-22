@@ -1,3 +1,4 @@
+<img width="1337" height="448" alt="sub_photo_part" src="https://github.com/user-attachments/assets/b5c2ab9f-a21a-4467-95c3-6989610dfa25" />
 # WebShops
 Von mir aufgesetzte Web-Shops
 
