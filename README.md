@@ -7,7 +7,8 @@ Von mir aufgesetzte Web-Shops
 
 <img width="1366" height="723" alt="Travelagent_header_1" src="https://github.com/user-attachments/assets/27c976e3-ac74-4214-806b-7a7168f94585" />
 
-<img width="1311" height="448" alt="sub_photo_part" src="https://github.com/user-attachments/assets/93ff65cc-75f9-42cb-b0c8-3bc244f7053b" />
+<img width="1272" height="448" alt="sub_photo_part" src="https://github.com/user-attachments/assets/f68b8add-e0fb-4ea8-84ca-8b8f86add2a5" />
+
 
 
 <img width="1354" height="399" alt="image" src="https://github.com/user-attachments/assets/76456269-81d7-458c-8f70-793eb6ab9ee6" />
